@@ -1,0 +1,327 @@
+company,location,date,total_laid_off,percentage_laid_off
+Advisor Credit Exchange,Philadelphia,14-01-2025,NULL,100
+Ahead,SF Bay Area,14-04-2022,44,100
+Airlift,"Lahore,Non-U.S.",12-07-2022,NULL,100
+Airy Rooms,"Jakarta,Non-U.S.",07-05-2020,NULL,100
+Akudo,"Bengaluru,Non-U.S.",20-09-2023,NULL,100
+ALI Technologies,"Tokyo,Non-U.S.",16-01-2024,NULL,100
+Alza,New York City,13-01-2025,NULL,100
+Amicole,New York City,17-07-2025,NULL,100
+Amplero,Seattle,29-03-2020,17,100
+Anar,"Mumbai,Non-U.S.",25-11-2023,NULL,100
+ANS Commerce,"Gurugram,Non-U.S.",02-03-2025,NULL,100
+AppHarvest,Lexington,24-07-2023,NULL,100
+Arch Oncology,Brisbane,13-01-2023,NULL,100
+Arkane Studios,Austin,08-05-2024,96,100
+Arrival,"London,Non-U.S.",10-03-2025,NULL,100
+Artifact,SF Bay Area,12-01-2024,NULL,100
+Assurance,Seattle,01-05-2024,112,100
+Assure,Salt Lake City,23-11-2022,NULL,100
+Astra,"Bengaluru,Non-U.S.",31-07-2025,NULL,100
+Astrate Medical,Philadelphia,05-02-2024,NULL,100
+Atsu,Seattle,10-04-2020,6,100
+Aura Financial,SF Bay Area,11-01-2021,NULL,100
+Automatic,SF Bay Area,01-05-2020,NULL,100
+Avocargo,"Berlin,Non-U.S.",06-04-2023,16,100
+Awok,"Dubai,Non-U.S.",02-09-2020,NULL,100
+Beam,"Bristol,Non-U.S.",01-05-2025,200,100
+Belora Paris,"Gurugram,Non-U.S.",18-10-2023,NULL,100
+Bench,"Vancouver,Non-U.S.",27-12-2024,450,100
+BeyondMinds,"Tel Aviv,Non-U.S.",23-05-2022,65,100
+BionicHIVE,"Sderot,Non-U.S.",22-12-2024,NULL,100
+Bitfront,SF Bay Area,29-11-2022,NULL,100
+Bitwise,SF Bay Area,14-06-2023,900,100
+Blip,"Bengaluru,Non-U.S.",12-07-2025,NULL,100
+BlockFi,New York City,28-11-2022,NULL,100
+Blueboard,SF Bay Area,15-03-2024,NULL,100
+Bluelearn,"Bengaluru,Non-U.S.",22-07-2024,NULL,100
+Bluepad,"Bengaluru,Non-U.S.",13-04-2023,NULL,100
+Bluprint,Denver,26-05-2020,137,100
+Bowery Farming,New York City,01-11-2024,NULL,100
+Braid,SF Bay Area,09-10-2023,NULL,100
+Brave Care,Portland,31-12-2024,NULL,100
+Bridge Connector,Nashville,17-11-2020,154,100
+Brilliant,SF Bay Area,08-05-2024,NULL,100
+Britishvolt,"London,Non-U.S.",17-01-2023,206,100
+Brodmann17,"Tel Aviv,Non-U.S.",09-12-2022,NULL,100
+Builder.ai,"London,Non-U.S.",20-05-2025,NULL,100
+Bundle Africa,"Lagos,Non-U.S.",21-07-2023,NULL,100
+Bunnii,New York City,06-06-2023,NULL,100
+Butler Hospitality,New York City,08-07-2022,1000,100
+Buy.com / Rakuten,SF Bay Area,30-07-2020,87,100
+Buzzer,New York City,30-06-2023,NULL,100
+Cake Bikes,"Stockholm,Non-U.S.",02-02-2024,NULL,100
+Cana,SF Bay Area,13-05-2023,NULL,100
+CapWay,Atlanta,17-10-2024,NULL,100
+Care/of,New York City,15-06-2024,143,100
+Catch,New York City,07-03-2023,NULL,100
+Clockwork,Dallas,28-08-2023,NULL,100
+CodeClan,"Edinburgh,Non-U.S.",04-08-2023,57,100
+CodeParrot,"Bengaluru,Non-U.S.",17-07-2025,NULL,100
+CodeSee,SF Bay Area,15-02-2024,NULL,100
+Coho AI,"Tel Aviv,Non-U.S.",06-04-2025,NULL,100
+CoLab,"Sydney,Non-U.S.",18-04-2023,NULL,100
+Collage.com,Detroit,09-10-2022,NULL,100
+CommonBond,New York City,09-09-2022,NULL,100
+ComplYant,Los Angeles,29-04-2024,NULL,100
+ConnectedH,"Gurugram,Non-U.S.",02-08-2023,NULL,100
+Consider.co,SF Bay Area,26-03-2020,13,100
+Convoy,Seattle,19-10-2023,500,100
+Cova,"Lagos,Non-U.S.",25-01-2024,NULL,100
+Crejo.Fun,"Bengaluru,Non-U.S.",30-06-2022,170,100
+Cue Health,San Diego,22-05-2024,180,100
+Curalie,"Berlin,Non-U.S.",14-12-2023,NULL,100
+Cushion,SF Bay Area,30-01-2025,NULL,100
+D2iQ,SF Bay Area,08-12-2023,NULL,100
+Dark,SF Bay Area,23-06-2020,6,100
+Dash,New York City,06-10-2023,NULL,100
+Datree,SF Bay Area,27-07-2023,NULL,100
+Daylight,Los Angeles,22-05-2023,NULL,100
+DayTwo,SF Bay Area,13-08-2024,NULL,100
+Deadspin,New York City,11-03-2024,11,100
+Dealtale,"Tel Aviv,Non-U.S.",09-08-2023,70,100
+DeepVerge,"Dublin,Non-U.S.",12-07-2023,50,100
+Deliv,SF Bay Area,13-05-2020,669,100
+Deliveroo Australia,"Melbourne,Victoria",15-11-2022,120,100
+Dextrous Robotics,Memphis,11-01-2024,NULL,100
+Digital Surge,"Brisbane,Non-U.S.",09-12-2022,NULL,100
+dot.LA,Los Angeles,12-06-2023,NULL,100
+Dotscience,"London,Non-U.S.",19-05-2020,10,100
+DoubleCloud,"Dubai,Non-U.S.",30-09-2024,NULL,100
+Drizly,Boston,05-02-2024,168,100
+Dropp,"Berlin,Non-U.S.",14-02-2023,60,100
+DUX Education,"Bengaluru,Non-U.S.",28-02-2023,NULL,100
+DwellWell,Los Angeles,04-12-2023,NULL,100
+Earth Rides,Nashville,19-01-2023,NULL,100
+EasyKnock,New York City,09-12-2024,NULL,100
+Eatsy,"Singapore,Non-U.S.",08-08-2020,20,100
+Eaze,SF Bay Area,07-10-2024,500,100
+Edmodo,SF Bay Area,16-08-2022,NULL,100
+Ejento,SF Bay Area,19-03-2020,84,100
+Electriq Global,"Tel Aviv,Non-U.S.",21-02-2025,NULL,100
+EMX Digital,New York City,13-02-2023,100,100
+Engine eCommerce,Fayetteville,28-06-2020,NULL,100
+Epicery,"Paris,Non-U.S.",31-12-2024,NULL,100
+Everledger,"Brisbane,Non-U.S.",08-05-2023,NULL,100
+Everybuddy,"Tel Aviv,Non-U.S.",13-02-2024,NULL,100
+Exosonic,Los Angeles,08-11-2024,NULL,100
+Eyowo,"Lagos,Non-U.S.",27-06-2023,NULL,100
+Fable,New York City,15-10-2024,NULL,100
+Fast,SF Bay Area,05-04-2022,NULL,100
+Faze Medicines,Boston,09-11-2022,NULL,100
+FemTech Health,Houston,22-05-2023,NULL,100
+Fifth Season,Pittsburgh,28-10-2022,100,100
+Filmic,Seattle,01-12-2023,NULL,100
+Fipola,"Chennai,Non-U.S.",20-02-2023,NULL,100
+Fisker,Los Angeles,18-06-2024,NULL,100
+Fission,"Vancouver,Non-U.S.",07-04-2024,NULL,100
+Fit Analytics,"Berlin,Non-U.S.",28-09-2023,NULL,100
+Flux Systems,"London,Non-U.S.",14-10-2022,NULL,100
+Forward,SF Bay Area,12-11-2024,200,100
+Frontdesk,Milwaukee,02-01-2024,200,100
+FrontRow,"Bengaluru,Non-U.S.",10-07-2023,NULL,100
+Fuzzy,SF Bay Area,18-06-2023,NULL,100
+Gated,SF Bay Area,01-09-2023,NULL,100
+Gavelytics,Los Angeles,30-06-2022,NULL,100
+Ghost Autonomy,SF Bay Area,03-04-2024,100,100
+Glisser,"London,Non-U.S.",26-01-2023,25,100
+GloriFi,Dallas,21-11-2022,NULL,100
+GoNuts,"Mumbai,Non-U.S.",27-10-2022,NULL,100
+GoodGood,"Toronto,Non-U.S.",23-11-2022,NULL,100
+GoWild,Louisville,10-10-2024,NULL,100
+Grabango,SF Bay Area,09-10-2024,NULL,100
+Greenikk,"Trivandrum,Non-U.S.",30-09-2024,NULL,100
+Halcyon Health,New York City,15-04-2022,NULL,100
+Haus,SF Bay Area,09-08-2022,NULL,100
+Help.com,Austin,16-03-2020,16,100
+Here,Miami,08-01-2024,NULL,100
+HerMD,Cincinnati,24-02-2025,NULL,100
+Heygo,"London,Non-U.S.",13-04-2023,NULL,100
+HOOQ,"Singapore,Non-U.S.",27-03-2020,250,100
+Hooray Foods,SF Bay Area,17-09-2023,NULL,100
+Hubba,"Toronto,Non-U.S.",01-02-2021,45,100
+HubHaus,SF Bay Area,11-09-2020,NULL,100
+Humble Games,SF Bay Area,23-07-2024,36,100
+Hyperloop One,Los Angeles,21-12-2023,NULL,100
+InsurStaq.ai,"New Delhi,Non-U.S.",09-09-2024,NULL,100
+InVision,New York City,04-01-2024,NULL,100
+IRL,SF Bay Area,23-06-2023,NULL,100
+IronNet,Washington D.C.,02-10-2023,NULL,100
+Jane,Lehi,17-11-2023,NULL,100
+JetClosing,Seattle,15-06-2022,NULL,100
+Joonko,New York City,19-05-2024,NULL,100
+Joonko,New York City,25-06-2023,NULL,100
+Journera,Chicago,08-02-2024,NULL,100
+Jump,New York City,07-05-2020,500,100
+Kaiyo,New York City,21-08-2024,NULL,100
+Kandela,Los Angeles,02-03-2023,NULL,100
+Kaodim,"Selangor,Non-U.S.",02-06-2022,NULL,100
+Karakuki,"London,Non-U.S.",20-06-2023,NULL,100
+Karhoo,"London,Non-U.S.",16-05-2024,NULL,100
+Karshare,"London,Non-U.S.",16-06-2023,NULL,100
+Kaspien,Seattle,19-12-2023,NULL,100
+Katerra,SF Bay Area,01-06-2021,2434,100
+Kenko Health,"Mumbai,Non-U.S.",23-08-2024,NULL,100
+Kite,SF Bay Area,16-11-2022,NULL,100
+Kitty Hawk,SF Bay Area,21-09-2022,100,100
+Kleos Space,"Luxembourg,Raleigh",26-07-2023,NULL,100
+Koo,"Bengaluru,Non-U.S.",02-07-2024,NULL,100
+Kune,"Nairobi,Non-U.S.",23-06-2022,NULL,100
+L1ght,"Tel Aviv,Non-U.S.",18-05-2023,NULL,100
+Ladenzeile,"Berlin,Non-U.S.",11-06-2024,NULL,100
+Lantern,Grand Rapids,06-01-2023,NULL,100
+Lazerpay,"Lagos,Non-U.S.",13-04-2023,NULL,100
+Level,New York City,02-01-2025,NULL,100
+Lido Learning,"Mumbai,Non-U.S.",09-09-2022,NULL,100
+Lilium,"Munich,Non-U.S.",23-12-2024,1000,100
+Limelight,New York City,04-02-2021,13,100
+Locomation,Pittsburgh,22-02-2023,NULL,100
+Log 9 Materials,"Bengaluru,Non-U.S.",02-05-2025,NULL,100
+Lora DiCarlo,Bend,02-12-2022,NULL,100
+Lordstown Motors,Detroit,27-06-2023,NULL,100
+Lumina Networks,SF Bay Area,18-08-2020,NULL,100
+Lunchtime,"Brno,Non-U.S.",01-09-2023,NULL,100
+Lunya,Los Angeles,30-06-2023,NULL,100
+Made Renovation,SF Bay Area,18-10-2023,NULL,100
+Madefire,SF Bay Area,29-04-2021,NULL,100
+Mainvest,Boston,14-05-2024,NULL,100
+Marin Software,SF Bay Area,10-04-2025,NULL,100
+Masse,New York City,15-05-2020,NULL,100
+MediaMath,New York City,30-06-2023,NULL,100
+Medly,New York City,08-02-2023,NULL,100
+Medsaf,"Lagos,Non-U.S.",07-07-2023,30,100
+Metigy,"Sydney,Non-U.S.",31-07-2022,75,100
+Milkrun,"Sydney,Non-U.S.",11-04-2023,400,100
+Mixtroz,Birmingham,06-12-2024,NULL,100
+Mobius Motors,"Nairobi,Non-U.S.",06-08-2024,NULL,100
+Mode Global,"London,Non-U.S.",26-01-2023,NULL,100
+Motif Foodworks,Boston,06-09-2024,NULL,100
+Motif Investing,SF Bay Area,18-04-2020,NULL,100
+Moxion Power,SF Bay Area,29-07-2024,248,100
+Muni Tienda,"Bogota,Non-U.S.",23-11-2022,NULL,100
+Muvin,"Bengaluru,Non-U.S.",05-02-2024,NULL,100
+NanoLock,"Tel Aviv,Non-U.S.",06-02-2025,NULL,100
+Nirvana Money,Miami,15-11-2022,NULL,100
+Noogata,"Tel Aviv,Non-U.S.",15-05-2025,10,100
+Nori,Seattle,09-09-2024,NULL,100
+Nowadays,SF Bay Area,18-09-2023,NULL,100
+Nuri,"Berlin,Non-U.S.",17-10-2022,NULL,100
+Ohm Mobility,Bengaluru,24-07-2025,NULL,100
+Okra,"Lagos,Non-U.S.",02-07-2025,NULL,100
+Olive,Columbus,31-10-2023,NULL,100
+ON,SF Bay Area,16-07-2024,60,100
+Openpay,"Melbourne,Non-U.S.",07-02-2023,83,100
+Opora,SF Bay Area,08-06-2023,NULL,100
+OSlash,"Bengaluru,Non-U.S.",09-11-2023,NULL,100
+Otipy,"New Delhi,Non-U.S.",23-05-2025,300,100
+Ozy Media,SF Bay Area,01-10-2021,NULL,100
+Pandion,Seattle,10-01-2025,63,100
+Panther,Tampa Bay,19-06-2023,NULL,100
+Pastel,SF Bay Area,30-09-2022,NULL,100
+Pebble,SF Bay Area,24-10-2023,NULL,100
+Perceptive Automata,Boston,01-08-2022,NULL,100
+Pesto,SF Bay Area,23-09-2022,NULL,100
+Phantom Auto,SF Bay Area,12-03-2024,100,100
+PicoBrew,Seattle,30-04-2020,NULL,100
+Pivo,"Abuja,Non-U.S.",05-12-2023,NULL,100
+Planetly,"Berlin,Non-U.S.",04-11-2022,200,100
+Playdots,New York City,13-10-2022,65,100
+Pocketmath,Singapore,20-01-2021,21,100
+Pollen,"London,Non-U.S.",10-08-2022,NULL,100
+Poparazzi,Los Angeles,28-04-2023,NULL,100
+Popin,New York City,19-03-2020,NULL,100
+Project Ronin,SF Bay Area,01-03-2024,150,100
+Propzy,"Ho Chi Minh City,Non-U.S.",13-09-2022,NULL,100
+Protocol,SF Bay Area,15-11-2022,60,100
+Protonn,"Bengaluru,Non-U.S.",20-01-2022,NULL,100
+Providoor,"Melbourne,Non-U.S.",28-04-2023,NULL,100
+Purse,SF Bay Area,16-04-2020,NULL,100
+Qin1,"Noida,Non-U.S.",14-10-2022,NULL,100
+Quadream,"Tel Aviv,Non-U.S.",16-04-2023,NULL,100
+Quibi,Los Angeles,21-10-2020,NULL,100
+Quizac,"Lagos,Non-U.S.",13-08-2024,NULL,100
+Quizy,"Gurugram,Non-U.S.",09-08-2023,NULL,100
+Ranger Insurance,New York City,01-04-2024,NULL,100
+Reali,SF Bay Area,24-08-2022,140,100
+Recast,"Edinburgh,Non-U.S.",22-09-2023,NULL,100
+Received,New York City,23-08-2024,NULL,100
+Redbox,Chicago,10-07-2024,1000,100
+RenoRun,"Montreal,Non-U.S.",26-04-2023,NULL,100
+ReshaMandi,"Bengaluru,Non-U.S.",20-08-2024,NULL,100
+Rezi,New York City,01-04-2024,NULL,100
+Rubica,Seattle,05-11-2020,NULL,100
+Running Tide,Portland,15-06-2024,NULL,100
+Sampler,"Toronto,Non-U.S.",15-08-2024,NULL,100
+SCiFi Foods,SF Bay Area,12-06-2024,NULL,100
+Scribe Media,Austin,04-05-2023,90,100
+SEND,"Sydney,Non-U.S.",04-05-2022,300,100
+Sendy,"Nairobi,Non-U.S.",08-08-2023,NULL,100
+Service,Los Angeles,16-03-2020,NULL,100
+Service,Los Angeles,20-03-2020,NULL,100
+Shift,SF Bay Area,06-10-2023,NULL,100
+ShopX,"Bengaluru,Non-U.S.",22-08-2022,NULL,100
+Silofit,"Montreal,Non-U.S.",02-08-2023,NULL,100
+Simple,Portland,07-01-2021,NULL,100
+Simple Feast,"Copenhagen,Non-U.S.",07-09-2022,150,100
+Skybox Security,SF Bay Area,24-02-2025,300,100
+Slync,Dallas,25-10-2023,NULL,100
+Small Robot Company,"Salisbury,Non-U.S.",02-02-2024,NULL,100
+Smashing,SF Bay Area,16-04-2025,7,100
+SmileDirectClub,Nashville,09-12-2023,NULL,100
+Soluto,"Tel Aviv,Non-U.S.",24-07-2022,120,100
+Sorabel,"Jakarta,Non-U.S.",23-07-2020,NULL,100
+Spora Health,SF Bay Area,28-11-2022,NULL,100
+Sproutt,Hartford,01-05-2024,NULL,100
+Stackpath,Dallas,17-06-2024,NULL,100
+Stay Alfred,Spokane,20-05-2020,221,100
+Stoa,"Bengaluru,Non-U.S.",12-11-2024,NULL,100
+Stockwell AI,SF Bay Area,15-06-2020,NULL,100
+Stoqo,"Jakarta,Non-U.S.",25-04-2020,250,100
+Strake,Boulder,28-12-2023,NULL,100
+Subspace,Los Angeles,13-05-2022,NULL,100
+Subtl AI,"Hyderabad,Non-U.S.",03-07-2025,NULL,100
+SummerBio,SF Bay Area,20-06-2022,101,100
+Sunfolding,SF Bay Area,09-12-2023,NULL,100
+SuperLearn,"Bengaluru,Non-U.S.",21-06-2022,NULL,100
+Tally,SF Bay Area,12-08-2024,NULL,100
+Tessera,New York City,12-05-2023,NULL,100
+The Grommet,Boston,09-06-2022,40,100
+The Messenger,Miami,31-01-2024,NULL,100
+The Modist,"Dubai,Non-U.S.",02-04-2020,NULL,100
+The Wing,New York City,31-08-2022,NULL,100
+Thepeer,"Lagos,Non-U.S.",02-04-2024,NULL,100
+Thrive,"Mumbai,Non-U.S.",14-12-2024,NULL,100
+Tiki,"Singapore,Non-U.S.",11-06-2023,NULL,100
+Tome Biosciences,Boston,26-08-2024,131,100
+Tomorrow,Seattle,28-04-2025,NULL,100
+Toplyne,"Bengaluru,Non-U.S.",11-10-2024,NULL,100
+Toucan,Los Angeles,09-03-2023,NULL,100
+Trendsales,"Copenhagen,Non-U.S.",08-04-2024,79,100
+TutorMundi,"Sao Paulo,Non-U.S.",24-04-2020,4,100
+Twig,"London,Non-U.S.",02-02-2024,NULL,100
+Udayy,"Gurugram,Non-U.S.",01-06-2022,100,100
+Uleet,Columbus,15-11-2023,NULL,100
+Vallai,"Paris,Non-U.S.",02-05-2023,NULL,100
+Veev,SF Bay Area,26-11-2023,NULL,100
+Verse,"Barcelona,Non-U.S.",07-08-2023,NULL,100
+Volt Bank,"Sydney,Non-U.S.",29-06-2022,NULL,100
+Volta Trucks,"Stockholm,Non-U.S.",18-10-2023,NULL,100
+Vowel,New York City,29-06-2023,NULL,100
+WanderJaunt,SF Bay Area,01-07-2022,85,100
+Wavely,SF Bay Area,10-11-2022,NULL,100
+WeFit,"Hanoi,Non-U.S.",13-05-2020,NULL,100
+WeTrade,"Bengaluru,Non-U.S.",09-02-2023,NULL,100
+WhyHive,"Melbourne,Non-U.S.",02-04-2025,NULL,100
+Wing Cloud,"Tel Aviv,Non-U.S.",09-04-2025,NULL,100
+Wisense,"Tel Aviv,Non-U.S.",13-02-2024,NULL,100
+Workfellow,"Espoo,Non-U.S.",07-02-2024,NULL,100
+Wyre,SF Bay Area,04-01-2023,NULL,100
+Yabonza,"Sydney,Non-U.S.",29-07-2022,NULL,100
+YourGrocer,"Melbourne,Non-U.S.",19-12-2022,NULL,100
+Yummly,SF Bay Area,03-04-2024,NULL,100
+Zapata Computing,Boston,07-10-2024,NULL,100
+Zeen,SF Bay Area,21-07-2025,NULL,100
+ZestMoney,"Bengaluru,Non-U.S.",05-12-2023,150,100
+Zeus Living,SF Bay Area,07-11-2023,NULL,100
+Zulily,Seattle,08-12-2023,839,100
+Zume,SF Bay Area,02-06-2023,NULL,100

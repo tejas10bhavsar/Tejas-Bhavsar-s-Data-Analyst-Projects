@@ -1,0 +1,7 @@
+Severity Band,events,%Total,,Severity Band,%Total
+Less than 10%,583,16.92%,,Less than 10%,16.92%
+Between 10%-25%,1060,30.76%,,Between 10%-25%,30.76%
+Between 25%-50%,502,14.57%,,Between 25%-50%,14.57%
+Between 50%-99%,151,4.38%,,Between 50%-99%,4.38%
+100% Shutdown,1150,33.37%,,100% Shutdown,33.37%
+,3446,100.00%,,,100.00%
